@@ -10,6 +10,11 @@ This is a collaborative Quarto project.
 
 # Contributions
 
+# Parth’s Section
+
+This is my contribution to the Quarto project.
+
 # Instructor's Section
 
 This section was added after Parthi began work.
+
